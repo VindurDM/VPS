@@ -158,7 +158,6 @@ PrivateKey = $c1
 Address = 10.77.0.2/24 
 DNS = 8.8.8.8,1.1.1.1,9.9.9.9
 MTU = 1420
-
 [Peer]
 PublicKey = $s2
 Endpoint = $serverip:$port
